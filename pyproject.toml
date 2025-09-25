@@ -1,0 +1,14 @@
+[project]
+name = "parser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.10.11",
+    "asyncio>=3.4.3",
+    "bs4>=0.0.2",
+    "faststream>=0.5.43",
+    "lxml>=6.0.0",
+    "requests>=2.32.4",
+]
